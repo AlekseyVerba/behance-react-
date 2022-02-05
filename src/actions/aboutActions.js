@@ -1,0 +1,1 @@
+export const changeClassItemsAbout = (payload) => ({type: "CHANGE_CLASS_ITEMS_ABOUT", payload})

@@ -1,0 +1,6 @@
+export const addAnimate = () => ({type: "ADD_ANIMATE"})
+export const goIntro = () => ({type: "GO_INTRO"})
+export const finishAnimate = () => ({type: "FINISH_ANIMATE"})
+export const goAbout = () => ({type: "GO_ABOUT"})
+export const goOverlayFromAbout = () => ({type: "GO_OVERLAY_FROM_ABOUT"})
+export const fromOverlay = () => ({type: "FROM_OVERLAY"})

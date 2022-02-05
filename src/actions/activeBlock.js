@@ -1,0 +1,1 @@
+export const activeBlock = (blocks) => ({type: "ACTIVE_BLOCK", payload: blocks})
